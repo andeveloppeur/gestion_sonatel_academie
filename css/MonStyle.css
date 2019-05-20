@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    background-image: url("../img/u.jpeg");
+    background-attachment: fixed;
+}
+.piedPage{
+    text-align: center;
+    background-color:#007bffb9;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 0px;
+}
+.cpr{
+    margin: 0px;
+}
+.corps{
+    min-height: 81vh; 
+}
+.cAuth{
+    min-height: 62.2vh; 
+}
+.cListe{
+    min-height: 72.2vh; 
+}
+.bienv{
+    min-height: 58.2vh;
+    font-style: italic;
+    margin-top: 20%;
+    font-weight: bolder;
+    color: rgb(39, 37, 37);
+    font-size: 20%;
+}
+.espace{
+    margin-top: 2%;
+}
+.MonForm{
+    margin-top: 14%;
+}
+.bor{
+    border: 2px solid #007bffb9;
+    padding-bottom: 2%;
+    padding-top: 1%;
+    background-color: #d0c9d6;
+}
+
+
+tr{
+    background-color: #d0c9d6;
+}
+.tab{
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+.Montab{
+    margin-bottom: 1%;
+}
+.blocAcc{
+    color: red;
+}
+.liste{
+    margin-top: 2.5%;
+}
+.tabliste{
+    margin-top: 8%;
+}
+.mb5{
+    margin-bottom: 2.65%;
+}
+.rouge{
+    background-color: red !important;
+}
+.rougMoins{
+    background-color: rgba(255, 0, 0, 0.5) !important;
+}
+.gras{
+    font-weight: bolder;
+    background-color: #007bffb9;
+}
+.ecriBlanc{
+    color: white !important;
+}
+tr:hover{
+    background-color: #b6a2c9c9 !important;
+}
+.mesBout{
+     width: 100%;
+}
+.textlab{
+    font-size: 50px;
+}
+.table{
+    margin-bottom: 9em;
+}
+
+.piedPageaccueil{
+    text-align: center;
+    background-color:#007bffb9;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.margTopAcc80{
+    margin-top: 80vh;
+}
+.c100 > span {
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+}
+.textAccueil{
+    margin-top: 10%;
+    margin-bottom: 8%;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bolder;
+    color: #e6e6e6;
+    box-shadow: 0px 0px 2px 2px #844f7f;
+    background-color: #007bff36;
+    border-radius: 15px 50px;
+    width: 80%;
+    margin-left: 10%;
+}
