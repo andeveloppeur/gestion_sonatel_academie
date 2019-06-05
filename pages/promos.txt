@@ -3,3 +3,4 @@ SA-2|Promo 2|Février|2016|
 SA-3|Promo 3|Mars|2017|
 SA-4|Promo 4|Avril|2018|
 SA-5|Promo 5|Mai|2019|
+SA-6|Promo 6|Avril|2019|

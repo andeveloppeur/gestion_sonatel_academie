@@ -123,7 +123,10 @@ elseif (isset($_POST["promo"])) {
                             <td class="col-md-2 text-center">' . $etudiant[5] . '</td>
                             <td class="col-md-1 text-center"><a href="ListerEtudiant.php?code=' . $etudiant[0] . '&promo=' . $Promo .  '"   id="' . $etudiant[0] . '" ><button class="form-control';
                     if ($etudiant[6] == "Expulser") {
-                        echo " bg-danger";
+                            echo " btn-outline-danger ";
+                    }
+                    else{
+                        echo " btn-outline-success ";
                     }
                     echo  '" >' . $etudiant[6] . '</button></a></td>
                         </tr>';
